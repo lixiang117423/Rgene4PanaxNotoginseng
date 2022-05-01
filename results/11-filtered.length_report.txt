@@ -1,0 +1,5 @@
+04/09/2022 at 11h33m00s
+usage: /usr/bin/agat_sp_filter_gene_by_length.pl --gff results/10-genblastG_out_1.1c_2.3_s1_0_16_1.gff --size 20000 --test < -o results/11-filtered.length.gff
+We will select l1 feature (e.g. gene) that have length < 20000 bp.
+2148 l1 feature (e.g. gene) selected with a length < 20000 bp.
+59 remaining l1 feature (e.g. gene) do not pass the test.

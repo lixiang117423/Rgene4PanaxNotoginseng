@@ -1,0 +1,12 @@
+Import Phylip file
+Unique sequences    : 308
+Number of genes     : 308
+Length of alignment : 6264
+
+Assess alignment breath coverage
+Export alignment coverage
+Number of positions meeting depth threshold of 0.05 is 2837
+Visualization of alignment coverage
+output files
+Genotypes in alignment: 308
+Length of alignment:    2837

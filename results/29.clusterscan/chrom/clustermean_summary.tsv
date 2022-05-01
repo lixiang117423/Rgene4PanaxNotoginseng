@@ -1,0 +1,13 @@
+category	n_clusters	n_ft	n_bs	max_ft	max_bs	min_ft	min_bs
+Chr1	4	14	NA	5	NA	2	NA
+Chr10	4	10	NA	4	NA	2	NA
+Chr11	3	11	NA	6	NA	2	NA
+Chr12	2	4	NA	2	NA	2	NA
+Chr2	2	5	NA	3	NA	2	NA
+Chr3	1	7	NA	7	NA	7	NA
+Chr4	5	16	NA	6	NA	2	NA
+Chr5	4	11	NA	4	NA	2	NA
+Chr6	4	20	NA	7	NA	2	NA
+Chr7	5	26	NA	16	NA	2	NA
+Chr8	6	24	NA	9	NA	2	NA
+Chr9	2	5	NA	3	NA	2	NA

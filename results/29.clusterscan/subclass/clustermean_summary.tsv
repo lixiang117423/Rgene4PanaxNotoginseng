@@ -1,0 +1,8 @@
+category	n_clusters	n_ft	n_bs	max_ft	max_bs	min_ft	min_bs
+CN	2	8	0	6	0	2	0
+L	16	45	1	7	1	2	0
+N	8	24	2	5	2	2	0
+NL	2	4	0	2	0	2	0
+T	1	3	0	3	0	3	0
+TN	7	23	6	7	2	2	0
+TNL	2	9	5	5	5	4	0
